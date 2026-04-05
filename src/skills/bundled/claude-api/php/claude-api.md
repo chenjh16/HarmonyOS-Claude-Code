@@ -1,0 +1,3 @@
+# PHP Claude API
+
+Placeholder.
