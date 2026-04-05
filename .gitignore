@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+npm-dist/
+ohos-deploy/
+
+# Lock files
+package-lock.json
+bun.lock
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Build artifacts
+*.exe
+*.tar.gz
+*.zip
+*.sha256
+
+# Downloaded vendor binaries (ripgrep etc.)
+vendor/
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
