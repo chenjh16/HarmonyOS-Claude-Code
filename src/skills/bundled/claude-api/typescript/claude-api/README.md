@@ -1,0 +1,3 @@
+# TypeScript Claude API
+
+Placeholder.
